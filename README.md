@@ -1,2 +1,0 @@
-# Gacent.github.io
-blog
