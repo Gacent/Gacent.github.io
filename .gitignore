@@ -47,3 +47,5 @@ _site
 
 # webstorm
 .idea
+
+.history
