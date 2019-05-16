@@ -3,7 +3,7 @@ title:  "你的工作清单TODOLIST!"
 subtitle: "简易todolist出世!"
 author: "Gacent"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/b.jpg"
 date:   2019-05-16
 ---
 
@@ -15,5 +15,5 @@ date:   2019-05-16
 然后最近项目又用到elementUI，感觉封装的很好，ui界面很舒服很快捷，就试着用这个前端框架搭起了自己的todolist<br>
 不过很失望的是vue-cli废除了vue-resource，虽然我不会写后台，没有接口请求，意味着一切都是刷新页面之后就没数据了，所以这个todolist只能停留在藐视的阶段<br>
 后来网上查了一下vue-cli搭配全家桶的axios可以实现ajax请求，不过配置方面需要花时间，所以就先写个普通的骨架先咯，后期吧哈哈。<br>
-此刻应该附上已经todolist的项目地址：https://github.com/Gacent/mytodolist
+此刻应该附上已经todolist的项目地址：https://github.com/Gacent/mytodolist<br>
 （ps：前端小白不敢吭声）
